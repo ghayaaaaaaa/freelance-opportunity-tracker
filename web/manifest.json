@@ -1,0 +1,19 @@
+{
+    "name": "Freelance Opportunity Tracker",
+    "short_name": "Work Tracker",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F5F5F1",
+    "theme_color": "#176B63",
+    "description": "An offline app for organizing freelance opportunities.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/tracker.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
